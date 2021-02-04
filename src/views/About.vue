@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="about">
         <v-row class="text-left">
             <v-col cols="10">
                 <h1 class="green--text text--darken-2">

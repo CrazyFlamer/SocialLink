@@ -16,7 +16,7 @@
         >
           <v-list-item>
             <v-list-item-avatar>
-              <img :src="'https://randomuser.me/api/portraits/men/1.jpg'">
+              <img :src="'https://randomuser.me/api/portraits/men/27.jpg'">
             </v-list-item-avatar>
 
             <v-list-item-content class="text-left">
@@ -33,7 +33,7 @@
 
           <v-divider class="my-3"></v-divider>
 
-          <v-list-item link to="">
+          <v-list-item link to="/">
 
             <v-list-item-icon>
               <v-icon>mdi-freebsd</v-icon>
@@ -44,7 +44,7 @@
 
           </v-list-item>
 
-          <v-list-item link to="">
+          <v-list-item link to="/about">
 
             <v-list-item-icon>
               <v-icon>mdi-unicorn-variant</v-icon>
